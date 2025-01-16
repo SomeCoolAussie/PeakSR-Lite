@@ -30,12 +30,21 @@ You only have to worry about `config.json` because that's the config file for ba
 5. Run `FireflySR.Tool.Proxy.exe` (in the FireflySR-Proxy folder) and open the game
 6. Enter the Calyx to enter battle
 
+#### Prebuilt Video Guide (ty to haruna):
+
+https://youtu.be/TKXtygq7880
+
+
 #### How to configure:
 
 1. Go to https://srtools.pages.dev/
 2. Configure the team, character builds, and enemies you want to fight and stuff
 3. Press the "config.json" button at the top, put the team you want to use and the enemies you want to fight and download the config.json
 4. Go to the _config folder and put your new config.json there. If there is already one there, overwrite it.
+
+#### SRTools Video Guide (ty to haruna):
+
+https://youtu.be/bD5Zw5Tp53I
 
 ### Build From Source
 
