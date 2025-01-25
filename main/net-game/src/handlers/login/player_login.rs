@@ -5,7 +5,7 @@ use net_msg::Trait;
 pub async fn handle(_: &[u8]) -> Vec<u8> {
     PlayerLoginScRsp {
         basic_info: Some(PlayerBasicInfo {
-            nickname: String::from("smol"),
+            nickname: String::from("Peak"),
             level: 10,
             exp: 0,
             stamina: 240,
