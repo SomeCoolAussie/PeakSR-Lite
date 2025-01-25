@@ -53,7 +53,7 @@ https://youtu.be/bD5Zw5Tp53I
 3. `cd` into `main`
 5. Edit config files in `_config` if necessary (check the README in that folder)
 6. `cargo run --release --bin net-game`
-7. `cargo run --release --bin net-sdk
+7. `cargo run --release --bin net-sdk`
 
 ## Credits
 
