@@ -10,7 +10,7 @@ pub mod mdk {
                         "data": {
                             "account": {
                                 "area_code": "**",
-                                "email": "yuvlian@naver.com",
+                                "email": "PeakInterest@gmail.com",
                                 "country": "ID",
                                 "is_email_verify": "1",
                                 "token": "x",
@@ -36,7 +36,7 @@ pub mod mdk {
                         "data": {
                             "account": {
                                 "area_code": "**",
-                                "email": "yuvlian@naver.com",
+                                "email": "PeakInterest@gmail.com",
                                 "country": "ID",
                                 "is_email_verify": "1",
                                 "token": "x",
